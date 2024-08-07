@@ -11,4 +11,4 @@ A very simple POC UEFI HWID Spoofer developed in EDK2. It erases the entire SMBI
 ![HWID Checker](https://i.imgur.com/P1EAXri.png)
 
 ## Tutorial
-![YouTube](https://www.youtube.com/watch?v=DJKt0Mx95L4)
+[YouTube](https://www.youtube.com/watch?v=DJKt0Mx95L4)
