@@ -1,0 +1,1 @@
+# EFI-SMBIOS-Spoofer
